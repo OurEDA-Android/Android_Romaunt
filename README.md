@@ -19,3 +19,10 @@
 * [CodeKK](http://a.codekk.com/)  
 
 * [JustWeTools](https://github.com/lfkdsk/JustWeTool)  
+
+## Thinking:
+
+* 设计稿转换代码：写转换，／2，[直接写像素值的库](https://github.com/hongyangAndroid/AndroidAutoLayout)  
+* Sp操作: SpUtils
+* 网络操作: 手写／[okhttp-utils](https://github.com/hongyangAndroid/okhttp-utils)  
+* RecycleView学习:[RecycleView](http://www.jianshu.com/p/a92955be0a3e)
